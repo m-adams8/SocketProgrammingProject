@@ -6,6 +6,7 @@ import time
 import uuid
 import sys
 # run this script from background: nohup python -u CSE3461/Lab/lab1_s.py > out.log 2>&1 &
+# nohup python3 -u lab1_s.py > out.log 2>&1 &
 
 host = "0.0.0.0"
 

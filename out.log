@@ -1,0 +1,5 @@
+TCP server listening: 0.0.0.0:12345UDP server listening: 0.0.0.0:54321
+
+Connecting address ('127.0.0.1', 56466)
+<re.Match object; span=(0, 10), match='adams.2666'>
+Incoming address:  ('127.0.0.1', 61558) Incoming message:  b'76e30e8d-984a-477e-be0b-b1d820b074b8'
